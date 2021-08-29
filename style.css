@@ -125,6 +125,10 @@ nav {
   text-align: center;
   max-height: 600px;
   overflow-y: auto;
+  padding: var(--space-sm);
+  max-height: 500px;
+  overflow-y: auto;
+  color: var(--color-dark);
 }
 
 .sidebar-item {
